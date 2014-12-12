@@ -16,14 +16,6 @@
 			}
 		},
 		{
-			"file": "_/components/php/header.php",
-			"settings":
-			{
-				"buffer_size": 245,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "index.php",
 			"settings":
 			{
@@ -56,6 +48,7 @@
 	},
 	"file_history":
 	[
+		"/X/iksnumbers.com/_/components/php/header.php",
 		"/X/iksnumbers.com/_/components/js/_myscript.js",
 		"/X/iksnumbers.com/_/components/js/_bootstrap.js",
 		"/X/iksnumbers.com/_/components/js/jquery.js",
@@ -95,7 +88,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -110,8 +103,8 @@
 						"selection":
 						[
 							[
-								803,
-								803
+								0,
+								0
 							]
 						],
 						"settings":
@@ -128,32 +121,6 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_/components/php/header.php",
-					"settings":
-					{
-						"buffer_size": 245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "index.php",
 					"settings":
 					{
@@ -164,8 +131,8 @@
 						"selection":
 						[
 							[
-								688,
-								688
+								0,
+								0
 							]
 						],
 						"settings":

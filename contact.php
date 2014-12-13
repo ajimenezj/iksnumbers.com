@@ -19,6 +19,7 @@
         </section><!-- sidebar -->
 
       </div><!-- content -->
+      <?php include "_/components/php/footer.php"; ?> <!-- Footer of the webpage -->
     </section><!-- container -->
 
     <script src="_/js/bootstrap.js"></script>

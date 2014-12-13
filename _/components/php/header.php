@@ -7,7 +7,7 @@
 
 			<section class="navbar">
 				<ul class="nav navbar-nav">
-					<li><a href="index.php" class="active">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="westernunion.php">Western union payment</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Support <span class="caret"></span></a>

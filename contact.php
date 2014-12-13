@@ -7,7 +7,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
   </head>
-  <body id="WesternUnion">
+  <body id="contact">
     <section class="container">
       <div class="content row">
         <section class="main col col-lg-8">

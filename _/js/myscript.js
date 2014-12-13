@@ -1,1 +1,1 @@
-
+$(function(){$("#home a:contains('Home')").parent().addClass("active"),$("#WesternUnion a:contains('Western union payment')").parent().addClass("active"),$("#contact a:contains('Contact us')").parent().addClass("active"),$("ul.nav li.dropdown").hover(function(){$(".dropdown-menu",this).fadeIn()},function(){$(".dropdown-menu",this).fadeOut("fast")})});

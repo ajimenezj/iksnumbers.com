@@ -10,8 +10,9 @@
   <body id="contact">
     <section class="container">
       <div class="content row">
+        <?php include "_/components/php/header.php"; ?> <!-- Header of the webpage -->
         <section class="main col col-lg-8">
-          <?php include "_/components/php/header.php"; ?> <!-- Header of the webpage -->
+          
         </section><!-- main -->
         
         <section class="sidebar col col-lg-4">

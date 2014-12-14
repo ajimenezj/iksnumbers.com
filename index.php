@@ -6,6 +6,7 @@
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic|Bree+Serif' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" type="text/css" href="_/fancybox/fancybox.css?v=2.1.5" media="screen" />
   </head>
   <body id="home">
     <section class="container">
@@ -14,7 +15,7 @@
         <?php include "_/components/php/snippet-carousel.php"; ?> <!-- SlideShow -->          
 
         <section class="main col col-lg-8">
-          
+          <?php include "_/components/php/snippet-pricetable.php"; ?> <!-- Prices table -->                 
         </section><!-- main -->
         
         <section class="sidebar col col-lg-4">
@@ -27,5 +28,6 @@
 
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
+    <script src="_/js/fancybox.js?v=2.1.5"></script>
   </body>
 </html>

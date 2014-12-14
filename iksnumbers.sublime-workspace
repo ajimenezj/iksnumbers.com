@@ -11,16 +11,56 @@
 			"file": "westernunion.php",
 			"settings":
 			{
-				"buffer_size": 913,
+				"buffer_size": 1086,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.php",
+			"settings":
+			{
+				"buffer_size": 1081,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/php/header.php",
+			"settings":
+			{
+				"buffer_size": 1472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/php/snippet-carousel.php",
+			"settings":
+			{
+				"buffer_size": 1214,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 993,
+				"buffer_size": 1079,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_/components/js/_myscript.js",
+			"settings":
+			{
+				"buffer_size": 472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/php/footer.php",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -48,7 +88,8 @@
 	},
 	"file_history":
 	[
-		"/X/iksnumbers.com/_/components/php/header.php",
+		"/X/iksnumbers.com/.gitignore",
+		"/X/iksnumbers.com/_/js/myscript.js",
 		"/X/iksnumbers.com/_/components/js/_myscript.js",
 		"/X/iksnumbers.com/_/components/js/_bootstrap.js",
 		"/X/iksnumbers.com/_/components/js/jquery.js",
@@ -88,7 +129,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -96,15 +137,15 @@
 					"file": "westernunion.php",
 					"settings":
 					{
-						"buffer_size": 913,
+						"buffer_size": 1086,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								943,
+								943
 							]
 						],
 						"settings":
@@ -121,18 +162,73 @@
 				},
 				{
 					"buffer": 1,
-					"file": "index.php",
+					"file": "contact.php",
 					"settings":
 					{
-						"buffer_size": 993,
+						"buffer_size": 1081,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								938,
+								938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_/components/php/header.php",
+					"settings":
+					{
+						"buffer_size": 1472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_/components/php/snippet-carousel.php",
+					"settings":
+					{
+						"buffer_size": 1214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1214,
+								1214
 							]
 						],
 						"settings":
@@ -140,6 +236,86 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_/components/js/_myscript.js",
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_/components/php/footer.php",
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

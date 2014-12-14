@@ -19,7 +19,7 @@
         </section><!-- main -->
         
         <section class="sidebar col col-lg-4">
-        
+          <?php include "_/components/php/snippet-portstatus.php"; ?> <!-- Port Status -->                         
         </section><!-- sidebar -->
 
       </div><!-- content -->

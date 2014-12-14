@@ -1,0 +1,23 @@
+[08-Mar-2014 02:01:40 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/numbers/public_html/manage/classes/manage_DB.php on line 47
+[08-Mar-2014 14:43:09 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/numbers/public_html/manage/classes/manage_DB.php on line 40
+[08-Mar-2014 14:43:14 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/numbers/public_html/manage/classes/manage_DB.php on line 40
+[08-Mar-2014 14:43:50 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/numbers/public_html/manage/classes/manage_DB.php on line 57
+[08-Mar-2014 14:45:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/numbers/public_html/manage/classes/manage_DB.php on line 46
+[08-Mar-2014 14:59:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/numbers/public_html/manage/classes/manage_DB.php on line 46
+[08-Mar-2014 15:00:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/numbers/public_html/manage/classes/manage_DB.php on line 46
+[08-Mar-2014 15:51:20 UTC] PHP Fatal error:  Class 'Login' not found in /home/numbers/public_html/manage/codes.php on line 24
+[08-Mar-2014 15:51:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/numbers/public_html/manage/classes/Login.php on line 140
+[17-Mar-2014 19:21:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:23:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:24:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:24:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:24:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:34:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:38:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/numbers/public_html/manage/classes/manage_DB.php on line 105
+[17-Mar-2014 19:44:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/numbers/public_html/manage/classes/manage_DB.php on line 127
+[17-Mar-2014 19:46:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/numbers/public_html/manage/classes/manage_DB.php on line 127
+[17-Mar-2014 20:03:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/numbers/public_html/manage/classes/Login.php on line 170
+[17-Mar-2014 20:30:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/numbers/public_html/manage/classes/Login.php on line 458
+[17-Mar-2014 20:30:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/numbers/public_html/manage/classes/Login.php on line 458
+[17-Mar-2014 20:30:33 UTC] PHP Parse error:  syntax error, unexpected '$accion' (T_VARIABLE), expecting ',' or ';' in /home/numbers/public_html/manage/classes/manage_DB.php on line 149
+[17-Mar-2014 20:47:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/numbers/public_html/manage/classes/Login.php on line 334

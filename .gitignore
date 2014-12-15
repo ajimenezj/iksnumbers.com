@@ -45,3 +45,7 @@ Temporary Items
 prepros.cfg
 *.cfg
 *.sublime-workspace
+manage/classes/manage_DB.php
+manage/classes/manage_DB_OLD.php
+manage/config/config.php
+iksnumbers.sublime-workspace

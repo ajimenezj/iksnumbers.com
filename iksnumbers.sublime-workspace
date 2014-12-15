@@ -3,6 +3,18 @@
 	{
 		"selected_items":
 		[
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"do",
+				"dropdown"
+			],
+			[
+				"fun",
+				"function"
+			]
 		]
 	},
 	"buffers":
@@ -11,16 +23,40 @@
 			"file": "westernunion.php",
 			"settings":
 			{
-				"buffer_size": 1086,
+				"buffer_size": 1095,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "contact.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1081,
+				"buffer_size": 1544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_/components/php/snippet-carousel.php",
+			"settings":
+			{
+				"buffer_size": 1304,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/less/variables.less",
+			"settings":
+			{
+				"buffer_size": 26944,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_/components/less/bootstrap.less",
+			"settings":
+			{
+				"buffer_size": 1121,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -28,38 +64,6 @@
 			"settings":
 			{
 				"buffer_size": 1472,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/snippet-carousel.php",
-			"settings":
-			{
-				"buffer_size": 1214,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 1079,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_/components/js/_myscript.js",
-			"settings":
-			{
-				"buffer_size": 472,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/footer.php",
-			"settings":
-			{
-				"buffer_size": 267,
 				"line_ending": "Windows"
 			}
 		}
@@ -88,8 +92,8 @@
 	},
 	"file_history":
 	[
-		"/X/iksnumbers.com/.gitignore",
 		"/X/iksnumbers.com/_/js/myscript.js",
+		"/X/iksnumbers.com/_/components/php/header.php",
 		"/X/iksnumbers.com/_/components/js/_myscript.js",
 		"/X/iksnumbers.com/_/components/js/_bootstrap.js",
 		"/X/iksnumbers.com/_/components/js/jquery.js",
@@ -98,7 +102,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -112,6 +116,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"navbar",
+			"navbar-nav",
+			"brand color",
+			"fadeOut",
+			"=\"#\">"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -137,15 +146,15 @@
 					"file": "westernunion.php",
 					"settings":
 					{
-						"buffer_size": 1086,
+						"buffer_size": 1095,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								943,
-								943
+								0,
+								0
 							]
 						],
 						"settings":
@@ -162,23 +171,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "contact.php",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 1081,
+						"buffer_size": 1544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								938,
-								938
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -190,6 +199,86 @@
 				},
 				{
 					"buffer": 2,
+					"file": "_/components/php/snippet-carousel.php",
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_/components/less/variables.less",
+					"settings":
+					{
+						"buffer_size": 26944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11644,
+								11644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5085.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_/components/less/bootstrap.less",
+					"settings":
+					{
+						"buffer_size": 1121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "_/components/php/header.php",
 					"settings":
 					{
@@ -200,122 +289,14 @@
 						"selection":
 						[
 							[
-								590,
-								590
+								313,
+								323
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_/components/php/snippet-carousel.php",
-					"settings":
-					{
-						"buffer_size": 1214,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1214,
-								1214
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.php",
-					"settings":
-					{
-						"buffer_size": 1079,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_/components/js/_myscript.js",
-					"settings":
-					{
-						"buffer_size": 472,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								472,
-								472
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_/components/php/footer.php",
-					"settings":
-					{
-						"buffer_size": 267,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								135,
-								135
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -382,6 +363,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 129.0,
+	"side_bar_width": 249.0,
 	"status_bar_visible": true
 }

@@ -1,4 +1,4 @@
-<div id="Carousel" class="carousel slide" data-ride="carousel">
+<div id="Carousel" class="carousel hidden-xs slide" data-ride="carousel">
   
     <!-- Indicators -->
     <ol class="carousel-indicators">

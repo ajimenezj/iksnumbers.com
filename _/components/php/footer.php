@@ -6,5 +6,5 @@
 			<li><a href="http://ftanumbers.com/" target="_blank">Support Forum</a></li>
 		</ol>
 	</footer>
-	<?php include "_/components/php/analyticstracking.php.php"; ?> <!-- Google Analytics -->  
+	<?php include_once("analyticstracking.php"); ?> <!-- Google Analytics -->  
 </section>

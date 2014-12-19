@@ -63,7 +63,7 @@ switch($action){
                 
                                 }
                                         
-                                $img = ($status=="UP")?'http://www.iksnumbers.com/_/images/misc/live.png':'http://www.iksnumbers.com/_/images/misc/offline.png';
+                                $img = ($status=="UP")?'http://www.iksnumbers.com/images/misc/live.png':'http://www.iksnumbers.com/images/misc/offline.png';
                                 
                                 if (!($globalCount%$numrows) and $globalCount>0) {
                                         $salida.= '</td><td valign="top">'; // start a new row

@@ -1,29 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>IKS Private Server -- Home iksnumbers.com</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic|Bree+Serif' rel='stylesheet' type='text/css'>
-    <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
-  </head>
-  <body id="contact">
-    <section class="container">
-      <div class="content row">
-        <?php include "_/components/php/header.php"; ?> <!-- Header of the webpage -->
-        <section class="main col col-lg-8">
-          
-        </section><!-- main -->
+<!-- www.123contactform.com script begins here -->
         
-        <section class="sidebar col col-lg-4">
-        
-        </section><!-- sidebar -->
+<script type="text/javascript">var servicedomain="www.123contactform.com"; var frmRef=''; try { frmRef=window.top.location.href; } catch(err) {}; var cfJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + cfJsHost + servicedomain + "/includes/easyXDM.min.js' type='text/javascript'%3E%3C/script%3E")); frmRef=encodeURIComponent(frmRef).replace('%26','[%ANDCHAR%]'); document.write(unescape("%3Cscript src='" + cfJsHost + servicedomain + "/jsform-1223995.js?ref="+frmRef+"' type='text/javascript'%3E%3C/script%3E")); </script>
 
-      </div><!-- content -->
-      <?php include "_/components/php/footer.php"; ?> <!-- Footer of the webpage -->
-    </section><!-- container -->
-
-    <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscript.js"></script>
-  </body>
-</html>
+<!-- www.123contactform.com script ends here -->

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <p><b>Numbers are valid for all our services</b></p>
+=======
+<b>Numbers are valid for all our services</b>
+>>>>>>> origin/master
 <ul>
 	<li>Charlie USA</li>
 	<li>Blue Sky</li>
@@ -7,12 +11,19 @@
 	<li>Red Point 50W</li>
 	<li>Amazonas</li>
 </ul>
+<<<<<<< HEAD
 <p>
 <b>You will get a 10% off when you send your payment using Western Union</b>
 Please choose the offer you need, and then refer to the instructions below.
 </p>
 
 <table class="table" id="wupayment">
+=======
+<b>You will get a 10% off when you send your payment using Western Union</b>
+Please choose the offer you need, and then refer to the instructions below.
+<table>
+<tbody>
+>>>>>>> origin/master
 <tr>
 <th>#</th>
 <th><b>Number(s)</b></th>
@@ -63,11 +74,16 @@ Please choose the offer you need, and then refer to the instructions below.
 <td><b>10</b></td>
 <td><b>234.00 USD</b></td>
 </tr>
+<<<<<<< HEAD
+=======
+</tbody>
+>>>>>>> origin/master
 </table>
 <p style="text-align: center;"><strong>Instructions and information required</strong></p>
 <strong>Step #1:</strong> The following information is for your reference to Western Union payment.
 Beneficiary/Receiver:
 <ul>
+<<<<<<< HEAD
 	<li><b>Last Name / FAMILY NAME:</b> De los Santos</li>
 	<li><b>First Name / GIVEN NAME:</b> Reina</li>
 	<li><b>Country:</b> Republica Dominicana</li>
@@ -86,3 +102,17 @@ Beneficiary/Receiver:
 
 
 <p><strong>Step #3:</strong> We'll send you your number after we received your payment information.</p>
+=======
+	<li><b>Last Name / FAMILY NAME:</b>   De los Santos</li>
+	<li><b>First Name / GIVEN NAME:</b>  Reina</li>
+	<li><b>Country:</b>   Republica Dominicana</li>
+	<li><b>Address:</b>   Lincon avenue 204 Piantini.</li>
+	<li><strong>Post code</strong> : 10127</li>
+	<li> <b>You need to transfer:  </b> The Amount of offer you choose</li>
+</ul>
+<strong>Step #2:</strong> Please inform us the payment information and fill the form below using your payment information.
+
+
+
+<strong>Step #3:</strong> We'll send you your number after we received your payment information.
+>>>>>>> origin/master

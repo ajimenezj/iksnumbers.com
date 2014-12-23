@@ -10,7 +10,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" type="text/css" href="_/fancybox/fancybox.css?v=2.1.5" media="screen" />
   </head>
-  <body id="WesternUnion">
+  <body id="home">
     <section class="container">
       <div class="content row">
         <?php include "_/components/php/header.php"; ?> <!-- Header of the webpage -->       

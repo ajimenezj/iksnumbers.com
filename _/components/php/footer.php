@@ -7,4 +7,5 @@
 		</ol>
 	</footer>
 	<?php include_once("analyticstracking.php"); ?> <!-- Google Analytics -->  
+	<?php include_once("piwik.php"); ?> <!-- Google Analytics -->  
 </section>

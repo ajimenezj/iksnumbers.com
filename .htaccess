@@ -30,10 +30,10 @@ Redirect 301 /category/support-fta/jynxbox/ http://www.iksnumbers.com/
 Redirect 301 /tag/new-services/ http://www.iksnumbers.com/
 Redirect 301 /forums/ http://www.iksnumbers.com/
 Redirect 301 /category/support-fta/captiveworks/ http://www.iksnumbers.com/
-Redirect 301 /blog/page/3/ http://www.iksnumbers.com/
+Redirect 301 /page/3/ http://www.iksnumbers.com/
 Redirect 301 /category/nfusion/ http://www.iksnumbers.com/
-Redirect 301 /blog/page/4/ http://www.iksnumbers.com/
-Redirect 301 /blog/page/5/ http://www.iksnumbers.com/
+Redirect 301 /page/4/ http://www.iksnumbers.com/
+Redirect 301 /page/5/ http://www.iksnumbers.com/
 Redirect 301 /category/linkbox/ http://www.iksnumbers.com/
 Redirect 301 /tag/red-point/index.php http://www.iksnumbers.com/
 Redirect 301 /category/nanosat/ http://www.iksnumbers.com/

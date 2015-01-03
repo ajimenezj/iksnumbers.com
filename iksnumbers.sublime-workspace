@@ -3,83 +3,15 @@
 	{
 		"selected_items":
 		[
-			[
-				"drop",
-				"dropdown-menu"
-			],
-			[
-				"do",
-				"dropdown"
-			],
-			[
-				"fun",
-				"function"
-			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "westernunion.php",
+			"file": "_/components/php/article-wupayment.php",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/snippet-portstatus.php",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/html/portstatus.html",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/ajax.php",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/header.php",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/article-feature.php",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/components/php/snippet-phonecarousel.php",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 1906,
 				"line_ending": "Windows"
 			}
 		},
@@ -87,7 +19,7 @@
 			"file": "_/components/php/snippet-pricetable.php",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3046,
 				"line_ending": "Windows"
 			}
 		}
@@ -116,29 +48,36 @@
 	},
 	"file_history":
 	[
-		"/X/iksnumbers.com/index.php",
-		"/X/iksnumbers.com/_/components/less/bootstrap.less",
-		"/X/iksnumbers.com/_/css/bootstrap.css",
-		"/X/iksnumbers.com/_/components/less/variables.less",
-		"/X/iksnumbers.com/_/components/php/header.php",
-		"/X/iksnumbers.com/_/components/js/_myscript.js",
+		"/X/iksnumbers.com/iksnumbers.com/_/components/php/snippet-pricetable.php",
+		"/X/iksnumbers.com/westernunion.php",
+		"/X/iksnumbers.com/iksnumbers.com/index.php",
+		"/X/iksnumbers.com/iksnumbers.com/westernunion.php",
+		"/X/iksnumbers.com/iksnumbers.com/_/components/php/article-wupayment.php",
 		"/X/iksnumbers.com/contact.php",
-		"/X/iksnumbers.com/_/components/php/snippet-contactform.php",
-		"/X/iksnumbers.com/_/components/php/snippet-carousel.php",
-		"/X/iksnumbers.com/_/components/php/snippet-ads.php",
 		"/X/iksnumbers.com/_/components/php/snippet-pricetable.php",
-		"/X/iksnumbers.com/_/components/php/snippet-phonecarousel.php",
-		"/X/iksnumbers.com/_/components/less/navbar.less",
+		"/X/iksnumbers.com/_/components/php/header.php",
+		"/X/iksnumbers.com/_/components/php/snippet-carousel.php",
+		"/X/iksnumbers.com/index.php",
+		"/X/iksnumbers.com/_/components/js/_myscript.js",
 		"/X/iksnumbers.com/_/components/less/_mystyle.less",
-		"/X/iksnumbers.com/_/components/js/_jquery_min.js",
-		"/X/iksnumbers.com/_/components/less/jumbotron.less",
-		"/X/iksnumbers.com/_/js/myscript.js",
+		"/X/iksnumbers.com/_/components/html/portstatus.html",
+		"/X/iksnumbers.com/_/components/php/footer.php",
+		"/X/iksnumbers.com/_/components/php/ajax.php",
+		"/X/iksnumbers.com/_/components/php/analyticstracking.php",
+		"/X/iksnumbers.com/_/components/php/snippet-portstatus.php",
 		"/X/iksnumbers.com/_/components/js/_bootstrap.js",
-		"/X/iksnumbers.com/_/components/js/jquery.js"
+		"/X/iksnumbers.com/_/components/js/_jquery_min.js",
+		"/X/iksnumbers.com/_/js/jquery_min.js",
+		"/X/iksnumbers.com/_/components/js/_fancybox.js",
+		"/X/iksnumbers.com/_/css/fancybox.css",
+		"/X/iksnumbers.com/.gitignore",
+		"/X/iksnumbers.com/_/js/myscript.js",
+		"/X/iksnumbers.com/_/components/js/jquery.js",
+		"/X/iksnumbers.com/_/css/bootstrap.css"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 0.0
 	},
 	"find_in_files":
 	{
@@ -152,14 +91,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"galaxydesign.org",
-			"dealforsoftware.com",
-			"li",
-			"navbar",
-			"navbar-nav",
-			"brand color",
-			"fadeOut",
-			"=\"#\">"
+			"org",
+			"galaxydesign"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -167,8 +100,8 @@
 		"regex": false,
 		"replace_history":
 		[
-			"dealforsoftware.com",
-			"galaxydesign.org"
+			"com",
+			"dealforsoftware"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -179,30 +112,29 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "westernunion.php",
+					"file": "_/components/php/article-wupayment.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1906,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								53,
+								53
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -212,207 +144,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_/components/php/snippet-portstatus.php",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_/components/html/portstatus.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_/components/php/ajax.php",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_/components/php/header.php",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_/components/php/article-feature.php",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_/components/php/snippet-phonecarousel.php",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "index.php",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "_/components/php/snippet-pricetable.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3046,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3046,
+								3046
 							]
 						],
 						"settings":
@@ -421,7 +164,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 468.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -435,7 +178,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 32.0
 	},
 	"layout":
 	{
@@ -485,6 +228,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 249.0,
+	"side_bar_width": 247.0,
 	"status_bar_visible": true
 }

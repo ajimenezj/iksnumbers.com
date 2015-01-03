@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>IKS Private Server -- Home iksnumbers.com</title>
-    <meta name="author" content="Iks numbeers" />
-    <meta name="description" content="IKS Private Server, fta, nfusion, iks, ftazeta, donation, nfps, iksprivateserver, sonicview, captiveworks, ppv" />
-    <meta name="keywords" content="IKS Private Server, fta, nfusion, iks, ftazeta, donation, nfps, iksprivateserver, sonicview, captiveworks, ppv" />
+    <title>IKS Private Server - Home iksnumbers.com</title>
+    <meta name="description" content="The best iks private server of the market we provide services for charlie usa, charlie mx, blue sky, red point 50w, amazonas and media net 67w. IPTV services available." />
+    <meta name="keywords" content="iks private server,iks,iks galaxy,bev iks private server,private iks server,iks diamond rings,private iks order,iks private server free trial,iks servers,iks public server 2014,forum iks actions,booth iks,iks group,iks bev,iks server codes,iks rocket reviews,iks sont lavant,fta files,total fta,fta professionals,fta receivers working with n3,fta political cartoon,vancouver fta,how to set up viewsat fta reci,nagra 3 fta fix,fta private server,viewsat fta n3 fix,fta fix,fta channels 2014,fta bins,hack fta receiver,fta electronics group,server fta free to air for coo,fta channels,fta professionals tv review,fta bin,fta beta,x fta pro,fta keys" />
+    <meta name="author" content="iksnumbers.com" />
+    <!-- Geo tags -->
+    <meta name="geo.region" content="US" />
+    <meta name="geo.position" content="37.09024;-95.712891" />
+    <meta name="ICBM" content="37.09024, -95.712891" />
+    <!-- Geo tags -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic|Bree+Serif' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
